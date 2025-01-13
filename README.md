@@ -917,10 +917,10 @@ android:paddingBottom
 android:paddingLeft
 android:paddingTop
 184.	… вызывается при остановке активности.
-???onDestroy()
+#onDestroy()
 onPause()
 onRestart()
-#onStop()
+onStop()
 185.	Какой атрибут используется для оставления пробела за внешней границей компонента?
 #marginTop
 marginBottom
@@ -996,10 +996,10 @@ android:layout_width
 android:layout_height
 android:layout_alignParentTop
 200.	… вызывается при остановке активности.
-???onRestart()
+#onRestart()
 onStart()
 onCreate()
-#onPause()
+onPause()
 
 
 ```
